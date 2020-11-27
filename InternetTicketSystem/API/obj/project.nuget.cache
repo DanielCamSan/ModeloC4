@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hvl/qv17Yu3IipapWpvhUHs+32ObXktmz3nF1b0jETyKKtBngNEyy5G/pG/2mGLwVpxeGA04jPgNwq8B+gUjMw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\59177\\Desktop\\6 Semestre\\Arquitectura\\Laboratorio 6\\InternetTicketSystem\\API\\Practicando WEBAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\59177\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\59177\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\59177\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\59177\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\59177\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\59177\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\59177\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

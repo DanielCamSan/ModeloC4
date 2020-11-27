@@ -1,0 +1,4 @@
+//Problem
+The main problem that we have at the moment of buying a ticket is that we had to go to the station to see the prices and the schedule, and also for buying tickets
+//Solution
+The solution that i propose is that we have to create a internetTicketSystem where users can make his operations interacting with the Web Aplication(UI), and the web Aplication will send the data and request the information to the database using an Api for interprete his calls and request, in my example i dessign the API aplication using a monholitic structure called Layer Model, where i have 3 capes, The Presentation Layer(Controller), business logic layer(Services and models) and Data Access Layer(Repository and Entities)
