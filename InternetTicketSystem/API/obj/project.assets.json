@@ -288,9 +288,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\59177\\Desktop\\6 Semestre\\Arquitectura\\Laboratorio 6\\InternetTicketSystem\\API\\Practicando WEBAPI.csproj",
-      "projectName": "Practicando WEBAPI",
-      "projectPath": "c:\\Users\\59177\\Desktop\\6 Semestre\\Arquitectura\\Laboratorio 6\\InternetTicketSystem\\API\\Practicando WEBAPI.csproj",
+      "projectUniqueName": "c:\\Users\\59177\\Desktop\\6 Semestre\\Arquitectura\\Laboratorio 6\\InternetTicketSystem\\API\\InternetTicketSystem.csproj",
+      "projectName": "InternetTicketSystem",
+      "projectPath": "c:\\Users\\59177\\Desktop\\6 Semestre\\Arquitectura\\Laboratorio 6\\InternetTicketSystem\\API\\InternetTicketSystem.csproj",
       "packagesPath": "C:\\Users\\59177\\.nuget\\packages\\",
       "outputPath": "c:\\Users\\59177\\Desktop\\6 Semestre\\Arquitectura\\Laboratorio 6\\InternetTicketSystem\\API\\obj\\",
       "projectStyle": "PackageReference",

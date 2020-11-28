@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hvl/qv17Yu3IipapWpvhUHs+32ObXktmz3nF1b0jETyKKtBngNEyy5G/pG/2mGLwVpxeGA04jPgNwq8B+gUjMw==",
+  "dgSpecHash": "f70FnArICV0Ua2a01Hg8yYmPt0ijIZyG9Jz+OS8Xo41IcvJVzFxWp22PQntv+Msc//VrzUsr7BStXaLWGHuZ+Q==",
   "success": true,
-  "projectFilePath": "c:\\Users\\59177\\Desktop\\6 Semestre\\Arquitectura\\Laboratorio 6\\InternetTicketSystem\\API\\Practicando WEBAPI.csproj",
+  "projectFilePath": "c:\\Users\\59177\\Desktop\\6 Semestre\\Arquitectura\\Laboratorio 6\\InternetTicketSystem\\API\\InternetTicketSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\59177\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\59177\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
